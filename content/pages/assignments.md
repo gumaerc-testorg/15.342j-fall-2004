@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, including class
+  participation, brief weekly memos, and the term paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
