@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Palm Pilot
 uid: 5ba175d2-aad6-2656-6529-22b977aa8f82
 ---
 Photo of a Palm Pilot. Lecture 8 focuses on technology in the workplace, and its impact on the organization. (Image courtesy of Melissa Ramirez and stock.xchng. Used with permission.)
-
