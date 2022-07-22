@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives and organization,
+  meeting times, and evaluation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0c50f241-a1d2-3a4d-0130-81db2fd6b1ac
 ---
